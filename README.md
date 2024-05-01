@@ -17,3 +17,7 @@ Possuo conhecimentos básicos de lógica de programação e em informática, por
 Trabalhei como menor aprendiz de suporte TI na WK Sistemas de Blumenau durante 7 meses em 2012.
 Disponibilidade para mudar de país.
 Inglês Escrevendo: Básico .. Lendo: Avançado .. Falando: Básico
+
+Como falar comigo:
+
+https://www.instagram.com/gianlucascorrente/
