@@ -13,10 +13,10 @@ https://docs.google.com/spreadsheets/d/1HPIKheTJelikRQ4jgH5sCS_ZFprtV12W/edit?us
 
 Mais sobre mim:
 
-> Possuo conhecimentos básicos de lógica de programação e em informática, por conta do curso de aprendizagem em informática que realizei no SENAI-Blumenau.
-> Trabalhei como menor aprendiz de suporte TI na WK Sistemas de Blumenau durante 7 meses em 2012.
-> Disponibilidade para mudar de país
-> Inglês: 
->Escrevendo: Básico(X) Intermediário() Avançado() Fluente() 
->Lendo: Básico() Intermediário() Avançado(X) Fluente()
->Falando: Básico(X) Intermediário() Avançado() Fluente()
+Possuo conhecimentos básicos de lógica de programação e em informática, por conta do curso de aprendizagem em informática que realizei no SENAI-Blumenau.
+Trabalhei como menor aprendiz de suporte TI na WK Sistemas de Blumenau durante 7 meses em 2012.
+Disponibilidade para mudar de país
+Inglês: 
+Escrevendo: Básico(X) Intermediário() Avançado() Fluente() 
+Lendo: Básico() Intermediário() Avançado(X) Fluente()
+Falando: Básico(X) Intermediário() Avançado() Fluente()
