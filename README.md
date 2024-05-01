@@ -16,7 +16,4 @@ Mais sobre mim:
 Possuo conhecimentos básicos de lógica de programação e em informática, por conta do curso de aprendizagem em informática que realizei no SENAI-Blumenau.
 Trabalhei como menor aprendiz de suporte TI na WK Sistemas de Blumenau durante 7 meses em 2012.
 Disponibilidade para mudar de país
-Inglês: 
-Escrevendo: Básico 
-Lendo: Avançado
-Falando: Básico
+Inglês Escrevendo: Básico .. Lendo: Avançado .. Falando: Básico
