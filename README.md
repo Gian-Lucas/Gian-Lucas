@@ -17,6 +17,6 @@ Possuo conhecimentos básicos de lógica de programação e em informática, por
 Trabalhei como menor aprendiz de suporte TI na WK Sistemas de Blumenau durante 7 meses em 2012.
 Disponibilidade para mudar de país
 Inglês: 
-Escrevendo: Básico(X) Intermediário() Avançado() Fluente() 
-Lendo: Básico() Intermediário() Avançado(X) Fluente()
-Falando: Básico(X) Intermediário() Avançado() Fluente()
+Escrevendo: Básico 
+Lendo: Avançado
+Falando: Básico
